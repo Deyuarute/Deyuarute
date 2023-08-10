@@ -1,4 +1,4 @@
-##(EM CONTRUÇÃO)
+##(EM CONSTRUÇÃO)
 <br>
 ##tecnológias
 <br>
