@@ -2,6 +2,7 @@
 <br>
 ##tecnológias
 <br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=450&size=25&pause=1000&color=6EF72C&center=true&random=false&width=435&height=65&lines=Welcome+to+my+GITHUB...;+I'm+a+development+student+%3A3" alt="Typing SVG" /></a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="50" height="50" />
 <div>
