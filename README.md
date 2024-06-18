@@ -14,6 +14,7 @@
     &nbsp;
 
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60">
+  <img src="img/c--4.svg" width="60">
   </div>
 
 
