@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&pause=1000&color=9d7cd8&center=true&vCenter=true&random=false&width=1200&height=300&lines=Welcome+to+my+GITHUB...;I'm+a+development+student+%3A3" alt="Typing SVG" /></a>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=Deyuarute&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" style="width: 50%;"><img src="https://github-readme-streak-stats.herokuapp.com?user=Deyuarute&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" style="width: 50%;">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Deyuarute&show_icons=true&theme=tokyonight" style="width: 50%;"><img src="https://github-readme-streak-stats.herokuapp.com?user=Deyuarute&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" style="width: 50%;">
 
 </div>
   <div align=center>
